@@ -4,7 +4,7 @@ This module has the pytorch script to play different games in RAM configuration.
 
 # Image Samples
 
-The state per step is the RAM values normalized between $[0, 1]$ and for `Beam Rider` we get a reward of $44$ for shooting down the enemy.
+The state per step is the RAM values normalized between [0, 1] and for `Beam Rider` we get a reward of 44 for shooting down the enemy.
 
 <img src="./BeamRiderRAM.png">
 
